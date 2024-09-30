@@ -1,4 +1,4 @@
-# CODES_OF_03
+# CODESOFT_03
 import random
 import string
 
